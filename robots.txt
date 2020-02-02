@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooshaichu.thomasohashi.com/sitemap.xml
